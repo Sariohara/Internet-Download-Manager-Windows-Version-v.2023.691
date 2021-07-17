@@ -1,8 +1,8 @@
 <h1 align="center">Twój pierwszy przykładowy Bot Discord! 🤖</h1>
 <p align="center">
-  <a href="//github.com/jahsik/discordjs-template/commits/main"><img src="https://img.shields.io/github/last-commit/jahsik/discordjs-template"></a>
-  <a href="//github.com/jahsik/discordjs-template"><img src="https://img.shields.io/github/languages/code-size/jahsik/discordjs-template"></a>
-  <a href="//github.com/jahsik/discordjs-template/issues"><img src="https://img.shields.io/github/issues-raw/jahsik/discordjs-template"></a></a>
+  <a href="https//github.com/jahsik/discordjs-template/commits/main"><img src="https://img.shields.io/github/last-commit/jahsik/discordjs-template"></a>
+  <a href="https//github.com/jahsik/discordjs-template"><img src="https://img.shields.io/github/languages/code-size/jahsik/discordjs-template"></a>
+  <a href="https//github.com/jahsik/discordjs-template/issues"><img src="https://img.shields.io/github/issues-raw/jahsik/discordjs-template"></a></a>
 </p>
 
 ### Przykładowy bot zrobiony przy użyciu [discord.js](https://discord.js.org) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JAHSIKXD)
