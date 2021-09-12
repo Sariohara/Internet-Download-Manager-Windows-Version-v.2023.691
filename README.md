@@ -15,4 +15,4 @@
 - Aby uruchomić bota, trzeba zaktualizowac token jak i id developerów, tak jak było to omówione w 1-szym i 2-gim kroku.
 - Po uzupełnieniu wszystkich potrzebnych informacji, nareszcie jesteśmy w stanie uruchomić naszego pierwszego bota! Aby tego kroku dokonać otwórz terminal bądź okienko cmd w lokalizacji z plikami bota, wpisz `node .` i patrz jak zrobiłeś swojego pierwszego **Discord Bota** w życiu!
 ### Napotkałeś jakiś problem?
-- Napisz do mnie na discordzie (`jahsik#1337`) bądz naciśnij w [link](https://discord.com/users/852831552734756894)
+- Napisz do mnie na discordzie (`jahsik#3429`) bądz naciśnij w [link](https://discord.com/users/852831552734756894)
